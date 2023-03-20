@@ -1,0 +1,45 @@
+.body_backgorund {
+  background-image: url("https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58931.jpg");
+  background-position: center;
+  background-size: cover;
+}
+body{
+  cursor: pointer;
+}
+h1
+{
+    color: rgb(75, 27, 61); 
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: bold;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(252, 236, 246); 
+    border-style:groove;
+}
+
+button {
+  background-color: rgb(75, 27, 61);
+  border: none;
+  color: white;
+  padding: 10px 42px;
+  font-size: 20px;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+input
+{
+  margin-right: 20px;
+  font-size:17px;
+  font-family: cursive;
+  font-weight: bold;;
+}
+span{
+  font-family: fantasy;
+  font-weight: bold;
+  font-size:18px;
+  color:rgb(75, 27, 61);
+}
